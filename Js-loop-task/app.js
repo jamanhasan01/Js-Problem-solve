@@ -148,3 +148,51 @@ Find all the even numbers from 78 to 98.
         
     
 // }
+
+
+// ***************************************************************************************************
+
+
+
+/***
+
+Subtask-1:
+
+Display sum of all the odd numbers from 91 to 129.
+
+ */
+/***
+
+Subtask-2:
+
+Display sum of all the even numbers from 51 to 85.
+
+ */
+
+// problem 9 & 10 ans=============>>>>>>>>>>>>>>
+
+// let sum1=0;
+// let sum2=0
+
+// for (let i = 91; i < 130; i++) {
+  
+//     if (i%2!==0) {
+//         sum1+=i
+        
+//     }
+    
+    
+// }
+
+// console.log(sum1);
+
+
+// for (let i = 51; i < 86; i++) {
+    
+//     if (i%2==0) {
+//         sum2+=i
+//     }
+    
+// }
+
+// console.log(sum2);
