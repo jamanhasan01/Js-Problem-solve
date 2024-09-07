@@ -92,3 +92,16 @@ display odd number from 55 to 85 and skip the numbers divisible by 5.
 // }
 
 
+/***
+
+"I will invest at least 6 hrs every single day for next 60 days!" this message 60 times. So display this.
+*/
+
+// problem 6 ans=============>>>>>>>>>>>>>>
+
+// for (let i = 1; i < 61; i++) {
+
+//     console.log("this message 60 times "+i);
+    
+    
+// }
